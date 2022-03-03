@@ -1,0 +1,14 @@
+#showcomment
+{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+.newdiv{
+
+    height: auto;
+    margin: 10px;
+    padding: 20px;
+    border: 3px solid rgb(209, 231, 173);
+    background-color: ghostwhite;
+    text-align: center;
+}
